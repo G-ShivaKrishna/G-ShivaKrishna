@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gottimukkulashivakrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gottimukkulashivakrish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gottimukkula-shivakrishna-reddy-9a645626b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gottimukkula-shivakrishna-reddy-9a645626b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivakrishna_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivakrishna_reddy" height="30" width="40" /></a>
 </p>
 
